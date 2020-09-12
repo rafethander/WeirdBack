@@ -1,0 +1,79 @@
+﻿THE PANDEMIC MIGHT have thrown a wrench in Google's plans to show off all things new with Android this year, but it hasn't stopped the company from launching the latest version of its mobile operating system.
+
+Android is the OS that runs on a variety of devices from manufacturers like Samsung, LG, OnePlus, Motorola, Sony, and even Google. The new version is called Android 11. (Google switched from fun dessert-themed names to boring numbers last year.) The new Android doesn't introduce any dramatic changes to the platform, but when you update, you'll notice a few interface tweaks and a handful of new features offering meaningful everyday improvements. Before we get to the new features, let's talk about how to get the update.
+
+How to Download Android 11
+Android software updates are notoriously slow to roll out, meaning only a few phones will be able to download Android 11 today. Manufacturers like Samsung will take months to send it out to their own devices. And if you bought your phone directly from your wireless carrier, you'll have to wait even longer as the update requires an extra level of approval.
+
+If you have a Google Pixel 2 or newer, you can get Android 11 now. Select OnePlus, Xiaomi, Oppo, and Realme phones can also get it, not to mention Android One devices, like most of the Nokia-branded phones from HMD Global (though Nokia owners might still need to wait a few weeks). Before downloading any software update, make sure you back up your phone. Your settings menu might look different based on your device, but you should be able to find the option in Settings > System > Backup > Back up now.
+
+To check if you can download the update, head into Settings > System and then tap on Advanced > System Update. It should automatically start searching for the update (or you can tap Check for update). If you don't see anything, you may have to wait a few days. Even on the phones that get it first, Google often sends Android updates out over the course of several days.
+
+If your phone isn't a Google Pixel or an Android One phone, check your manufacturer's website or social media (or the web in general) to see when or if your phone will get Android 11. Most high-end phones get two years of Android upgrades from the date of their launch, so if you bought your phone in late 2018 or sooner, then you should get it.
+
+Top New Features
+We've been using a near-final build of Android 11 for the past few days and collected 11 of our favorite features—yes, our list goes to 11! This is just a slice of what's new; there are more than 100 features that cater to app developers to further improve the overall Android experience. You can read about all of them on Google's developer site.
+
+1. A New Power Menu
+
+The biggest visual change is what happens when you open the power menu (a long-press of the power button on most phones). You used to just see the options to restart the phone, lock it, or turn it off, but now you get quick access to your default Google Pay credit or debit card (you can change the default in the Google Pay app) if you've set it up. Boarding passes and other tickets added through Google Pay can be accessed here as well. Use Samsung Pay instead? You'll presumably be able to access cards the same way if you set it as your phone's default Tap and Pay solution (Settings > Connections > NFC and payment > Tap and pay > Samsung Pay).
+Below the cards, you'll find shortcuts to any smart home controls you've set up through the Google Home app. These quick access tiles let you toggle the power switch on lights, TVs, vacuums, and any other smart home device with just a tap, saving you the step of using your voice or opening up the Google Home app. You can customize these controls from the power menu itself (tap the triple dots on the right).
+
+2. A Redesigned Media Player
+
+
+When you play music, you usually see a notification with music controls when you swipe down the notification drawer, right? In Android 11, these controls are now integrated into the quick settings menu itself. Swipe down from the top of the screen and alongside your Wi-Fi and Bluetooth tiles, you'll see music controls (if you have music playing). It's a cleaner look, and it also works with streaming video (like YouTube clips) you've cast to other screens.
+
+It's not just a cosmetic improvement. You can also choose what device is playing the music, which is handy if you have Bluetooth speakers or earbuds connected in your home. Drag the menu down further to see more options, like the ability to give a song a thumbs up without needing to open your music app.
+
+3. Bubbles!
+
+
+Remember chat heads? Facebook Messenger has long-used chat heads that float everywhere, even in other apps, as a way to quickly access DM conversations. Google is taking that idea, calling it Bubbles, and expanding it natively to other messaging apps. To turn it on, head to Settings > Apps & notifications > Notifications > Bubbles and toggle it on. You'll now see your messages appear as floating bubbles, though not all messaging apps work (Instagram Directs and Twitter Direct Messages can't be bubblefied, for example). You can move these bubbles around; dragging them to the bottom of the screen gets rid of them.
+
+On the notification itself, you'll see a tiny arrow and circle icon on the bottom right. When the arrow points at the bubble, tapping it will open up the conversation as a bubble. If the arrow is facing away from the bubble, tapping it will open your message in the messaging app. These bubbles are grouped together with various messaging apps, so a Telegram bubble can be grouped with a Facebook Messenger bubble, and you can even set specific conversations as bubbles too. It makes it dead simple to continue conversations anywhere.
+
+4. Even Better Notifications
+
+
+Google is always tweaking how notifications appear in Android. Notifications are now grouped, so messaging apps fall under a new "Conversations" header (which also shows longer message threads). You can further customize your notifications by putting them into three categories: Silent, Default, and Priority.
+
+The former will put notifications under a "Silent" header and you won't be alerted about them. On Default, your phone will ring or vibrate when a notification comes in if it's not on mute. Priority notifications are only available for select apps, like messaging apps, and they will show up at the very top of the notification drawer and allows apps to appear as a floating bubble. These also can interrupt you in Do Not Disturb mode, but you'll need to enable this first by heading into your DND settings.
+
+Press and hold a notification to choose a category. There's a lot to play around with here if you want to exert more control over your notifications. Not everything needs to ping you, like Facebook birthday reminders.
+
+5. Natively Record Your Screen
+
+Whether you want to show off your gaming skills or you just want to send Wi-Fi instructions to grandpa, Android 11 finally lets you record the screen without requiring a third-party app. Just swipe down the notification shade and find the Screen Record quick settings tile (you might have to swipe to the left to see it). If you can't find it, you need to add the tile first by tapping the pencil icon and dragging the tile to the top.
+
+Tap the tile to start recording the screen. You can choose to record audio via the microphone or device audio and if you want to see touches on the screen. You'll see a three-second timer in the status bar, and then it will turn into a red dot to indicate recording has started. Just swipe the notification drawer down and tap the Screen Record notification to stop. You can tap to view it, and then share, edit, or delete it immediately.
+
+6. More Restrictive Permissions
+
+
+New apps you install ask you for permission to access certain components of the phone, like the microphone, camera, GPS, and other sensors. Most of the time this is necessary for features to work. A video messaging app you install will need access to the camera and microphone so you can make video calls. But there are apps that have abused these permissions to collect more data about you.
+
+In Android 11, you get the option to force an app to ask for permission every single time it wants to use a component on your phone. That sits alongside the existing option to allow access only when you are using the app. Even better, apps you don't use but are still installed on your phone can automatically see their permissions revoked over time ("a few months" according to Google). You need to opt into this though. Press and hold the app icon, tap App Info (the i symbol), and tap Permissions. At the very bottom, you'll see a toggle to Remove permissions if app isn't used.
+
+7. Keep Your Notification History
+Ever impulsively swipe a notification away before getting a chance to read it? Now you don't have to wonder if it was something important. Android 11 introduces Notification History, which you can access by going to Settings > Apps & notifications > Notifications > Notification history. Toggle it on and you'll see notifications that were recently dismissed and alerts from each app that pinged you in the last 24 hours. You can tap on these to jump straight into the respective app, just like a normal notification.
+
+8. Pin Apps in the Share Menu
+If you've always struggled to find the app you want to use to share something in Android's Share Menu, you'll be happy to learn you can finally pin your favorite apps to the top. Unfortunately, Google has several different share menus. For example, the sharing in Google Maps looks different from sharing in Google Photos, and that looks different from sharing in YouTube, which is also not the same as the primary Android share menu. Yikes. If you manage to access the main share menu, tap on an app in the Apps List and you can pin whatever you'd like to the top.
+
+9. Improved Voice Access for Accessibility
+Voice Access is an accessibility app Google introduced several years ago that allows people to control phones with just their voice. Previously, it required you to memorize a few commands or choose corresponding numbers on the screen. Android 11 is even better at understanding the content on the screen and the context around it. Just say the name of the app you want to open or the action you want to complete, and the phone will understand—or at least, more often than it used to. In order to use Voice Access, make sure you have the app installed first.
+
+10. More App Suggestions
+Android already makes smart suggestions for apps you might want to open next. Based on the context of your current workflow, or even your location and surroundings, it shows a selection of relevant apps in the top row of the app drawer. Android 11 now lets you add a dedicated "suggested apps" dock on the home screen. It basically bumps your existing dock up a row. The new dock that appears beneath the existing one will be populated with an ever-changing collection of apps Android expects you'll want to open next.
+
+If you're very particular about where apps should appear on your home screen, then this is not the feature for you. You can toggle it on or off by pressing on the home screen, going to Home settings > Suggestions > Suggestions on Home screen. But you can mix and match things by pinning a couple of preferred apps in this new dock and leaving the empty slots for the revolving suggestions.
+
+11. Odds and Ends
+A few other smaller improvements include a more granular Do Not Disturb mode. We touched on this earlier, but you can now set select conversations from specific messaging apps to come through even if you have the mode turned on. This also applies to all the apps you have installed—you can pick and choose what apps can break through when DND is turned on.
+
+If you're playing music through Bluetooth earbuds and you turn on Airplane mode, Android 11 won't turn off Bluetooth but will continue to turn off Wi-Fi and mobile data. That's handy when we all start going back to airports.
+
+Going back to the previous screen in Android requires a swipe in from the left or right edge. You can customize the sensitivity of this before, but Android 11 goes a small step further by letting you tweak the sensitivity on the left and right side each. Hopefully, it means fewer accidental back swipes.
+
+There are 117 new emoji! That includes 55 new skin tones and lots of refreshed designs, but we're particularly fond of the new bison.
